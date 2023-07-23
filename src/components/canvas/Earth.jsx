@@ -6,4 +6,4 @@ const Earth = () => {
   )
 }
 
-export default Earth
+export default Earth;

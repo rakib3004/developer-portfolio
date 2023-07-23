@@ -6,4 +6,4 @@ const Stars = () => {
   )
 }
 
-export default Stars
+export default Stars;
