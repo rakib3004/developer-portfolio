@@ -55,11 +55,11 @@ Overview
       <motion.p variants={fadeIn("","",0.1,1)}
       className='mt-4 text-secondary text-[17px] 
       max-w-3xl leading-[30px]'>
-      I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+      I am a software engineer who possesses a deep passion for problem-solving and programming. 
+      My educational background includes a bachelor's in Software Engineering from the University of Dhaka.
+      During my university years, I actively participated in both problem-solving and software development. 
+      I have completed 25+ academic software projects, solved 550+ competitive programming problems, 
+      and had 50+ online certifications in the computer science and software engineering field.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index)=>(

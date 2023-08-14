@@ -47,15 +47,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "DevOPs",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "UI/UX Designer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Writer",
       icon: creator,
     },
   ];
@@ -117,37 +117,37 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "DevOps Engineer",
+      company_name: "The Terminals",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "March 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
+        "Proficient DevOps Engineer specializing in Docker, Docker Swarm, and Terraform for efficient containerization and AWS infrastructure management.",
+        "Skilled in orchestrating EC2 instances, EBS volumes, and load balancers while optimizing performance through CloudFront and Autoscaling.",
+        "Adept at utilizing AWS Lambda for seamless serverless computing, ensuring scalable application deployments.",
+        "Demonstrated expertise in AWS services, complemented by a strong focus on streamlined DevOps practices.",
+     ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
+      title: "Trainee Software Engineer",
+      company_name: "Cefalo Bangladesh Ltd.",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+       "Skillfully develop dynamic web applications using React.js, Node.js, and JavaScript.",
+       "Collaborate effectively with cross-functional teams to ensure responsive designs and seamless cross-browser compatibility.",
+       "Contribute actively to code reviews, leveraging Figma and Jira for streamlined design and project management.",
+       "Expertly deploy frontends on Netlify, backends on Render, showcasing proficiency in MySQL and Sequelize for robust database management."
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Vue JS Developer Trainee",
+      company_name: "Innova Tech",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jul 2021 - Feb 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -156,11 +156,11 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Cheif Executive Officer",
+      company_name: "Tarafder Informatics Ltd.",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Dec 2019 - Present",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
